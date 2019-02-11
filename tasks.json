@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "use_proxy": true,
+
+      "target_variant": "11432918",
+
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "jdoe1337@gmail.com",
+      "phone": "1112223333",
+
+      "address1": "123 Copalot Ct",
+      "address2": "Unit 1",
+      "city": "Columbia",
+      "state": "MO",
+      "zip": "65211",
+
+      "cc_nm": "1111222233334444",
+      "month": "01",
+      "year": "22",
+      "cvv": "111",
+      "type": "Visa"
+    }
+  ]
+}
